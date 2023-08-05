@@ -1,0 +1,17 @@
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\bin\Debug\ExamsOne.exe.config
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\bin\Debug\ExamsOne.exe
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\bin\Debug\ExamsOne.pdb
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.csproj.AssemblyReference.cache
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\MainWindow.g.cs
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\App.g.cs
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne_MarkupCompile.cache
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne_MarkupCompile.lref
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\MainWindow.baml
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.g.resources
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.Properties.Resources.resources
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.csproj.GenerateResource.cache
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.csproj.CoreCompileInputs.cache
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.exe
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\ExamsOne.pdb
+C:\Users\gm_sa\OneDrive\Masaüstü\WPFExams\WPF\Yeni klasör\ExamsOne\obj\Debug\App.baml
